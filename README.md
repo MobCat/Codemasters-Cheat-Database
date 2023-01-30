@@ -9,7 +9,9 @@ aka
 V8 Supercars Australia 2  
 DTM Race Driver 2
 
-The Xbox codes may also work for PS2 but this and most of this database has not been tested
+Sadly xbox codes seem to be only for xbox, I only quickly tested it on PS2 so I might be missing something
+Also unsure about PSP?
+PC cheat codes have been posted too.
 
 Key  
 CHAMPS : Unlock all the cars and championships  
