@@ -4,6 +4,11 @@ Database of cheats for Codemasters games.
 Special thanks to vdox for the original generator.  
 Special thanks to [Nenkai and Slient](https://github.com/Nenkai/GameCheat-Unlockers) for the CMR04 generator.
 
+Also please note: Because of the size of these databases, they may take a little bit to load up, so just give it a sec.  
+Codemasters never intended anyone to ever put all possible codes into one table. Hence why this hole "random" cheat codes in the first place,  
+pay for cheats from Codemasters rather then get them from a book in the scholastic book fair, which was the style at the time. But we did it, we made a book out of every single cheat.  
+But most things kinda struggle to read it. Even the split up data is a little to much for GitHub, but it does get there in the end, just have to give it a sec to load.
+
 # TOCA Race Driver Cheats
 
 aka  
