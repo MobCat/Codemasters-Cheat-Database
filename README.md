@@ -1,9 +1,10 @@
 # Codemasters Cheat Database
 
 Database of cheats for Codemasters games.  
-Special thanks to vdox for the original generator.
+Special thanks to vdox for the original generator.  
+Special thanks to [Nenkai and Slient](https://github.com/Nenkai/GameCheat-Unlockers) for the CMR04 generator.
 
-# TOCA Race Driver
+# TOCA Race Driver Cheats
 
 aka  
 TOCA 1  
@@ -29,10 +30,9 @@ Universal cheats
 There are some cheat codes that can work with any bonus code.  
 CREDITS: View credits? Unsure why or what this does as you can already view the credits from the start? Might also be a cutscenes unlock?  
 SIM: Enables realistic (or hard) car handling. Enabling this and EASYCAR at the same time may cause issues with unresponsive steering  
-DAMAGE: Better damage?  
- 
+DAMAGE: Better damage?  
 
-# TOCA Race Driver 2
+# TOCA Race Driver 2 Cheats
 
 aka  
 V8 Supercars Australia 2  
@@ -64,3 +64,21 @@ THEEND: Unlock all the cutscenes
 
 There are currently no confirmed universal codes for this game.  
 People have posted them, but none of them work for me so they might be for different platforms.
+
+# Colin McRae Rally 04 Cheats
+
+Well this turned into a clusta trash fire...  
+Folder of cheat codes [here](https://github.com/MobCat/Codemasters-Cheat-Database/tree/main/Colin%20McRae%20Rally%2004%20Cheats)  
+It would seem that Codemasters increased the bonus code from 5 digits to 6, this increased the amount of possible codes by 10x  
+So instead of 2 CSVs we now have 20... fun..  
+I realize this isn't ideal, but its all I got right now. I need to come back to this and just re-wright the algorithm in php rather then dumping all possible codes to a table.
+
+key  
+Bonus: The Secret access code the game generates for you in the cheat menu (Options -> Secrets. This is not in the Extras menu)  
+GROUP B: Group B with 2 cars (Unlocks Group B events and 2 Group B cars.)  
+CARS: All Cars (Unlocks the rest of the cars)  
+TRACKS: All Tracks  
+EXPERT: Expert Mode  
+PARTS: Auto - Upgrades (All car parts)  
+TESTS: All Tests  
+MIRROR: Mirror tracks mode
